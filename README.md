@@ -10,7 +10,7 @@ Esta é uma aplicação que permite conversões de moedas em tempo real via API.
 
 ## ⚙️ Funcionalidades
  - Converter moedas: O programa possui funcionalidade para conversão de 3 moedas // BRL -> USD / USD -> BRL / BRL -> EUR / EUR -> BRL / USD -> EUR / EUR -> BRL. 
- - Validar entrada: Se o campo de texto conter algum número ou letra o programa exibirá um alerta solicitando uma opção válida.
+ - Validar entrada: Se nas opções o usuário digitar algum número quebrado ou letra o programa exibirá um alerta solicitando uma opção válida.
  - Conversão simultânea: A conversão ocorre com os valores atuais das moedas.
 
 ## 🖥️ Tecnologias utilizadas:
